@@ -3,7 +3,7 @@ layout: page
 title: Co-op Praxis
 ---
 
-Introducing here Cooperation Jackson because of their wholesome, no BS moevement praxis, as well as highlighting black co-op history findings
+How do cooperatives relate to racial justice? What are good models for a liberation-focused praxis towards solidarity economy?
 
 ## Black Co-op History
 
