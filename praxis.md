@@ -15,7 +15,8 @@ How do cooperatives relate to racial justice? What are good models for a liberat
 
 [Economic Cooperation among African Americans (PDF, extensive study) ](http://scua.library.umass.edu/digital/dubois/dubois12.pdf)
 
-## [Cooperation Jackson](http://www.cooperationjackson.org/principles/)
+## Cooperation Jackson
+http://www.cooperationjackson.org/principles/
 
 
 ### Principles:
