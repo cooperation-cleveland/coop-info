@@ -1,0 +1,53 @@
+/*
+ * TOC
+ *
+ * Style the TOC div.
+ */
+
+#toc {
+  float:right;
+  max-width: 56em;
+  font-size:1em;
+  max-width: 100%;
+  width: 100%;
+  margin-left: 2.2rem;
+  margin-bottom:2em;
+
+}
+
+
+#toc ol {
+  margin:0em;
+  padding-left: 0.8em;
+  list-style-type: lower-roman;
+}
+
+#toc > ol {
+  padding-left:1.4em;
+}
+#toc li {
+
+
+#toc li > ol {
+
+}
+
+#toc li > ol > li {
+  font-size: .9em;
+}
+
+#toc li > li > li {
+
+}
+@media (min-width: 38em) {
+  #toc {
+    max-width: 100%;
+    width: 100%;
+  }
+}
+@media (min-width: 56em) {
+  #toc {
+    max-width: 16rem;
+    min-width: 16rem;
+  }
+}
