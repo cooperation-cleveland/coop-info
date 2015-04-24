@@ -23,3 +23,8 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+prose:
+  siteurl: "https://cooperation-cleveland.github.io/"
+  ignore: ['file_a.html', '_config.yml']
+  media: "public/images"
