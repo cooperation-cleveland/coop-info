@@ -26,5 +26,5 @@ version:             1.0.0
 
 prose:
   siteurl: "https://cooperation-cleveland.github.io/"
-  ignore: ['file_a.html', '_config.yml']
+  ignore: ['.gitignore', '_config.yml', '.editorconfig', 'public', '_layouts', '_includes']
   media: "public/images"
