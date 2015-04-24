@@ -2,6 +2,7 @@
 layout: page
 title: Co-op Praxis
 description: Shaping a conciousness of how cooperatives and solidarity economy play into social movements, both historically and now.
+sort: 1
 ---
 
 How do cooperatives relate to racial justice? What are good models for a liberation-focused praxis towards solidarity economy?
