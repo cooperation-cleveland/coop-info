@@ -12,7 +12,7 @@ title:               Co-op Info
 tagline:             'Co-op Resources in Cleveland'
 description:         'A set of co-op resources made by Rikki.'
 url:                 http://lanyon.getpoole.com
-baseurl:             'coop-info'
+baseurl:             '/'
 paginate:            5
 
 # About/contact
