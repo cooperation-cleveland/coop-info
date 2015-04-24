@@ -5,7 +5,7 @@ title: Overview
 
 <div>
 {% assign pages_list = site.pages | sort:"url" %}
-{% for node in pages_list %}
+{% sorted_for node in pages_list sort_by:sort %}
   {% if node.title != null %}
     {% if node.layout == "page" %}
     <div>
