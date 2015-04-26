@@ -28,6 +28,7 @@ Lumumba and the activists that rallied around his campaigns hoped to establish t
 * [Interview w/ Chokwe on Democracy Now](http://www.democracynow.org/2014/2/26/chokwe_lumumba_remembering_americas_most_revolutionary)
 * [Free the Land - Interview w/ Chokwe](https://www.jacobinmag.com/2014/06/free-the-land/)
 * [Jackson Kush Plan (2012) - Malcom X Grassroots Movement](https://mxgm.org/the-jackson-plan-a-struggle-for-self-determination-participatory-democracy-and-economic-justice/)
+* * [In-depth analysis of Chokwe Lumumba's Work](http://www.rosalux-nyc.org/casting-shadows/)
 
 ### Principles:
 From [http://www.cooperationjackson.org/principles/]()
