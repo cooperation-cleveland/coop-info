@@ -25,7 +25,6 @@ http://www.cooperationjackson.org/principles/
 Lumumba and the activists that rallied around his campaigns hoped to establish two planks of political power: one based on “people’s assemblies” and another on a “solidarity economy,” built on a network of worker-owned cooperatives. The assemblies were, for the moment, purely advisory. They started in Ward 2, while he was a councilman, but spread after his election as mayor.
 
 * [Chokwe Lumumba on Wikipedia - Background](https://en.wikipedia.org/wiki/Chokwe_Lumumba)
-
 * [Interview w/ Chokwe on Democracy Now](http://www.democracynow.org/2014/2/26/chokwe_lumumba_remembering_americas_most_revolutionary)
 * [Free the Land - Interview w/ Chokwe](https://www.jacobinmag.com/2014/06/free-the-land/)
 * [Jackson Kush Plan (2012) - Malcom X Grassroots Movement](https://mxgm.org/the-jackson-plan-a-struggle-for-self-determination-participatory-democracy-and-economic-justice/)
