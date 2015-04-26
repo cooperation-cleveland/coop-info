@@ -30,8 +30,8 @@ Lumumba and the activists that rallied around his campaigns hoped to establish t
 * [Free the Land - Interview w/ Chokwe](https://www.jacobinmag.com/2014/06/free-the-land/)
 * [Jackson Kush Plan (2012) - Malcom X Grassroots Movement](https://mxgm.org/the-jackson-plan-a-struggle-for-self-determination-participatory-democracy-and-economic-justice/)
 * * [In-depth analysis of Chokwe Lumumba's Work](http://www.rosalux-nyc.org/casting-shadows/)
-* 
-> In the seventies, we were locked out of government completely. We were actually victims of government violence, so we protected ourselves against that repression. But since that time, particularly in Jackson, where I am now the mayor, the population changed. The city is now 85 percent black. Many of those people have worked together with us as we fought for rights for our youth, political prisoners, the victims of racism, the prosecution of the murder of Medgar Evers, and so on.
+ 
+> In the seventies, we were locked out of government completely. We were actually victims of government violence, so we protected ourselves against that repression. But since that time, particularly in Jackson, where I am now the mayor, the population changed. The city is now 85 percent black. Many of those people have worked together with us as we fought for rights for our youth, political prisoners, the victims of racism, the prosecution of the murder of Medgar Evers, and so on. - [Free the Land Interview](https://www.jacobinmag.com/2014/06/free-the-land/)
 
 We’ve been able to politicize the growing black population in Jackson, and in the state. We now have not just an 85 percent black population, but a black population prepared to elect progressive leadership.
 
